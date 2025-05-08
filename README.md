@@ -22,7 +22,7 @@ This project was created as part of my continuous learning in frontend developme
 
 ## Live Demo
 
-[Add your deployment link here – GitHub Pages, Vercel, Netlify, etc.]
+https://shouryashinde.github.io/Startup-Website/
 
 ## License
 
